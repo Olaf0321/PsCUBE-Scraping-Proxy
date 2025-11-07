@@ -1,4 +1,4 @@
-# Python Project (Windows)
+# パチンコ・パチスロ データ自動抽出ツール (Windows)
 
 このリポジトリは Windows 上で Python プロジェクトを実行するための手順を示します。
 
